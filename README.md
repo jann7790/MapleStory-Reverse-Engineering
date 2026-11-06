@@ -6,7 +6,7 @@
 
 
 
-# MapleStory Reverse Engineering — Cosmic Control Panel (Demo)
+# MapleStory Reverse Engineering — Control Panel (Demo)
 
 > **這個 repo 只展示成果，不包含原始碼、不包含遊戲檔案。**
 > This repository is a demo write-up only. No source code, binaries, or game assets are published.
@@ -35,8 +35,11 @@ https://github.com/user-attachments/assets/55413ab5-a3a2-47ff-9178-2076ed6ed2e3
 3. **IDA Pro 靜態分析**：載入 dump，閱讀可讀性更高的反編譯程式碼。
 4. **Client patch**：使用 Cheat Engine 動態 patch client，達成調整角色攻擊參數、控制場景內怪物座標、擴大攻擊範圍等行為。
 
-## ⚠️ 範圍與免責 / Scope & Disclaimer
+## 2026 後續用Agent完成加速飛行等功能 
+<img width="1651" height="1188" alt="image" src="https://github.com/user-attachments/assets/4f8ae957-ad77-48a4-8f34-5604fbbfa60a" />
+
+## Disclaimer
 
 - 僅用於**本機、離線、自己架設的 v83 模擬器**環境。
-- **不是**給官方 / 商業營運伺服器使用的工具，也請勿用於官方伺服器。
+
 ---
