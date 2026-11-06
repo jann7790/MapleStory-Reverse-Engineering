@@ -35,6 +35,14 @@ A personal reverse-engineering side project: a control panel for a **locally hos
 
 ![panel active](docs/panel-active.png)
 
+## 早期實驗影片 / Earlier experiment (2022)
+
+2022 年在**本機自架私服**上錄製的早期實驗：調整角色攻擊參數、控制場景內怪物座標、擴大攻擊範圍。
+
+An early 2022 experiment recorded on a **local, self-hosted private server**: tweaking character attack parameters, controlling in-map monster coordinates, and extending attack range.
+
+[![2022 experiment video](https://img.youtube.com/vi/Qa3V52FyTEM/hqdefault.jpg)](https://www.youtube.com/watch?v=Qa3V52FyTEM)
+
 ## 架構 / Architecture
 
 ```
