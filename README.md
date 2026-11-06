@@ -28,7 +28,7 @@ An early 2022 experiment recorded on a **local, self-hosted private server**: tw
 
 https://github.com/user-attachments/assets/55413ab5-a3a2-47ff-9178-2076ed6ed2e3
 
-## 2026 後續用Agent完成加速飛行等功能 
+## 2026 後續用Agent完成加速、飛行等功能 
 
 
 https://github.com/user-attachments/assets/4212c6c3-4339-4e40-bb03-f0f515f1fd40
