@@ -41,9 +41,9 @@ A personal reverse-engineering side project: a control panel for a **locally hos
 
 An early 2022 experiment recorded on a **local, self-hosted private server**: tweaking character attack parameters, controlling in-map monster coordinates, and extending attack range.
 
-[![Local private-server client modification experiment — Cosmic v83 (2022)](https://img.youtube.com/vi/Qa3V52FyTEM/hqdefault.jpg)](https://www.youtube.com/watch?v=Qa3V52FyTEM)
+[![Local private-server client modification experiment — Cosmic v83 (2022)](docs/demo-2022.gif)](docs/demo-2022.mp4)
 
-▶ [Local private-server client modification experiment — Cosmic v83 (2022)](https://www.youtube.com/watch?v=Qa3V52FyTEM)
+▶ [播放完整影片 (mp4) / Play full video](docs/demo-2022.mp4) · [YouTube](https://www.youtube.com/watch?v=Qa3V52FyTEM)
 
 ## 架構 / Architecture
 
