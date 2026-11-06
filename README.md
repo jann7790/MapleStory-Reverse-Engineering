@@ -13,22 +13,6 @@ A personal reverse-engineering side project: a control panel for a **locally hos
 
 ---
 
-## ⚠️ 範圍與免責 / Scope & Disclaimer
-
-- 僅用於**本機、離線、自己架設的 v83 模擬器**環境。
-- **不是**給官方 / 商業營運伺服器使用的工具，也請勿用於官方伺服器。
-- 本 repo 不含 `MapleStory.exe`、DLL、`.wz` 或任何受著作權保護的遊戲素材。
-- 原始碼不公開，因此也不提供下載、建置或使用說明。
-- 「MapleStory」及相關名稱屬於其權利人，本專案與其無任何關聯，亦未獲授權。
-
-- For a **local, offline, self-hosted v83 emulator** only.
-- **Not** intended for, and should never be used on, official or commercial servers.
-- No game executables, DLLs, `.wz` files, or other copyrighted assets are included.
-- Source code is not published, so there are no build or usage instructions.
-- "MapleStory" and related names belong to their respective owners; this project is unaffiliated and unauthorized.
-
----
-
 ## Demo
 
 
@@ -62,6 +46,22 @@ https://github.com/user-attachments/assets/d79a3f54-7af5-4031-bad9-7f191c8201e3
 - 面板與模組之間的狀態驗證與逾時 / 失效處理
 - 以 MinHook 對本機客戶端做函式掛鉤的研究與測試
 - 自動化測試與建置腳本
+
+## ⚠️ 範圍與免責 / Scope & Disclaimer
+
+- 僅用於**本機、離線、自己架設的 v83 模擬器**環境。
+- **不是**給官方 / 商業營運伺服器使用的工具，也請勿用於官方伺服器。
+- 本 repo 不含 `MapleStory.exe`、DLL、`.wz` 或任何受著作權保護的遊戲素材。
+- 原始碼不公開，因此也不提供下載、建置或使用說明。
+- 「MapleStory」及相關名稱屬於其權利人，本專案與其無任何關聯，亦未獲授權。
+
+- For a **local, offline, self-hosted v83 emulator** only.
+- **Not** intended for, and should never be used on, official or commercial servers.
+- No game executables, DLLs, `.wz` files, or other copyrighted assets are included.
+- Source code is not published, so there are no build or usage instructions.
+- "MapleStory" and related names belong to their respective owners; this project is unaffiliated and unauthorized.
+
+---
 
 ## 授權 / License
 
