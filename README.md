@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 # MapleStory Reverse Engineering — Cosmic Control Panel (Demo)
 
 > **這個 repo 只展示成果，不包含原始碼、不包含遊戲檔案。**
@@ -21,8 +25,8 @@ A personal reverse-engineering side project: a control panel for a **locally hos
 2022 年在**本機自架私服**上錄製的早期實驗：調整角色攻擊參數、控制場景內怪物座標、擴大攻擊範圍。
 
 An early 2022 experiment recorded on a **local, self-hosted private server**: tweaking character attack parameters, controlling in-map monster coordinates, and extending attack range.
-https://github.com/user-attachments/assets/d79a3f54-7af5-4031-bad9-7f191c8201e3
 
+https://github.com/user-attachments/assets/55413ab5-a3a2-47ff-9178-2076ed6ed2e3
 ## 架構 / Architecture
 
 ```
